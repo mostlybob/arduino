@@ -1,0 +1,6 @@
+# not to add, and I'm not finding many resources 
+# about what to ignore in Arduino projects
+
+# these one looks like it might be more related to Deviot
+*.ino.unc-backup.md5~
+*.ino.unc-backup~
